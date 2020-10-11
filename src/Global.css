@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  /* border: 2px solid green; */
+  box-sizing: border-box;
+}
+
+.test {
+  border: 1px solid red;
+  padding: 2px;
+}
